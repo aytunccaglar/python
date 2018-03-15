@@ -1,5 +1,5 @@
 ## **HW1** ##
-````python
+```python
 def rvs(kelime):
     harfler = []
     for i in range(len(kelime)):
@@ -11,4 +11,4 @@ def rvs(kelime):
 
 var = input("kelime veya cümle gir:")
 print(rvs(var))
-````python
+```
