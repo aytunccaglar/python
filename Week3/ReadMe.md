@@ -13,5 +13,5 @@ var = input("kelime veya cümle gir:")
 print(rvs(var))
 ```
 > Açıklama:
-İlk önce fonksiyon oluşturdum.Harfler dizisi oluşturduk.İlk döngüde İ'yi girilen kelime kadar döngüye alıyor ve diziye atıyor.
+İlk önce fonksiyon oluşturdum.Harfler dizisi oluşturdum.İlk döngüde İ'yi girilen kelime kadar döngüye alıyor ve diziye atıyor.
 Sonra J döngüsü ile harfleri yarısı kadar döngüye alıyor.Yer değiştirme işlemi yapıp harflere döndürüyor ve yazdırıyor.
