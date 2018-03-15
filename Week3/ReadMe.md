@@ -11,3 +11,4 @@ def rvs(kelime):
 
 var = input("kelime veya cümle gir:")
 print(rvs(var))
+````python
